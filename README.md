@@ -1,14 +1,58 @@
-# voyage-tasks
+# Chingu v37 Toucans03
 
-Your project's `readme` is as important to success as your code. For 
-this reason you should put as much care into its creation and maintenance
-as you would any other component of the application.
+Contents
 
-If you are unsure of what should go into the `readme` let this article,
-written by an experienced Chingu, be your starting point - 
-[Keys to a well written README](https://tinyurl.com/yk3wubft).
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Deploy Link](#deploy)
+4. [Dependencies](#dependencies)
+5. [Log](#log)
+6. [Bugs](#bugs)
+7. [To Do List](#todo)
+8. [Running the Project](#runproject)
 
-And before we go there's "one more thing"! Once you decide what to include
-in your `readme` feel free to replace the text we've provided here.
 
-> Own it & Make it your Own!
+## OVERVIEW <a name="overview"></a>
+
+A portfolio site to showcase the work of Chingu members. 
+
+
+## FEATURES <a name="features"></a>
+
+The portfolio...:
+
+- a
+- b
+
+
+## DEPLOY LINK
+
+e.g. Netlify:
+
+
+## DEPENDENCIES <a name="dependencies"></a>
+
+<insert tech stack and resources used, borrowed, copies>
+
+
+## LOG <a name="log"></a>
+
+<If we want, we can document our process here. What we did, problems and how we solved them>
+
+
+## BUGS <a name="bugs"></a>
+
+When we submit, list any bugs that we know about and need to fix
+
+
+## TO DO <a name="todo"></a>
+
+Features that we would like to add but didn't have time
+
+
+## RUNNING THE PROJECT <a name="runproject"></a>
+
+This is normally for more complicated apps. Ours will probably only be a netlify link
+
+
+
